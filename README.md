@@ -11,6 +11,6 @@
 
 **Write a formal e-mail requesting permission to organise and host a technical or non-technical event as a part of NOVUS 2026.**
 ## Question 2
-** EF SET Certificates of all the team members.**
+EF SET Certificates of all the team members.
 ## Question 3
 Linkedin Profiles of Team Members.
